@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CopilotDiffPersistence">
+    <option name="pendingDiffs">
+      <map>
+        <entry key="$PROJECT_DIR$/README.md">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/README.md" />
+              <option name="originalContent" value="# Embodied-AI-Learing&#10;用于记录具身智能的学习&#10;这是我的学习&#10;&#10;" />
+              <option name="updatedContent" value="# Embodied-AI-Learning&#10;&#10;这是一个伟大项目，将记录我的具身智能学习过程。&#10;&#10;## 简介&#10;&#10;用于记录具身智能的学习。这是我的学习笔记仓库。&#10;&#10;## 学习内容&#10;&#10;- [ ] 基础概念&#10;- [ ] 算法实现&#10;- [ ] 项目实践&#10;- [ ] 论文阅读&#10;&#10;## 学习路线&#10;&#10;### 阶段1: 基础知识&#10;- [ ] 线性代数和概率论复习&#10;- [ ] 机器学习基础（监督学习、无监督学习）&#10;- [ ] 深度学习入门（神经网络、CNN、RNN）&#10;&#10;### 阶段2: 具身AI核心概念&#10;- [ ] 机器人学基础（运动学、动力学）&#10;- [ ] 计算机视觉（图像处理、目标检测）&#10;- [ ] 传感器融合和SLAM&#10;&#10;### 阶段3: 算法与决策&#10;- [ ] 强化学习（Q-learning、策略梯度）&#10;- [ ] 路径规划和控制&#10;- [ ] 多智能体系统&#10;&#10;### 阶段4: 实践与应用&#10;- [ ] 模拟环境搭建（ROS、Gazebo）&#10;- [ ] 项目实现（简单机器人任务）&#10;- [ ] 论文阅读和前沿研究&#10;&#10;## 贡献&#10;&#10;欢迎提交问题和建议。" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
