@@ -36,5 +36,5 @@ class VAE(nn.Module):
 
 # 训练与测试代码可参考PyTorch官方教程
 # https://github.com/pytorch/examples/blob/main/vae/main.py
-#1
+#112
 
